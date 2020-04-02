@@ -1,0 +1,18 @@
+{
+  "name": "jp.cysharp.unirx",
+  "displayName": "UniRx",
+  "version": "7.1.0",
+  "unity": "2019.3",
+  "description": "UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. ",
+  "author": {
+    "name": "Yoshifumi Kawai",
+    "url": "https://medium.com/@neuecc"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "category": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monry/SignalHandler"
+  }
+}
