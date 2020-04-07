@@ -1,0 +1,20 @@
+{
+    "name": "RemoteConnectionCore.LipSync.Presentation",
+    "references": [
+        "GUID:38ab14c804afcda4fac536e5736e3f3f",
+        "GUID:111307191e82a1a469119758aec00af9",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:521efc98d09591841adebb15abbebc61",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:673e1205a1c44cd488d8669de1afb130"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

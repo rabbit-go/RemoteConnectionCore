@@ -1,0 +1,19 @@
+﻿{
+    "name": "RemoteConnectionCore.EyeTracking.Presentation",
+    "references": [
+        "GUID:88dc90a114e5d3f4fb830d67727dda95",
+        "GUID:69438a581a6872649bf2362046ff953d",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:521efc98d09591841adebb15abbebc61",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
