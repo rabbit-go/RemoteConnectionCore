@@ -1,0 +1,8 @@
+{
+  "name": "com.oculus.lipsync",
+  "displayName": "OculusLipSync Registration",
+  "version": "1.43.0",
+  "unity": "2019.3",
+  "description": "OculusLipSync",
+  "dependencies": {}
+}
